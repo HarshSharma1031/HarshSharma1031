@@ -1,5 +1,5 @@
 ![LOGO](https://github.com/HarshSharma1031/HarshSharma1031/blob/main/waves.jpg)
-<h1 align="center">Hey 👋,There I'm Harsh Sharma</h1>
+<h1 align="center">Hey!,There I'm Harsh Sharma</h1>
 <h3 align="center">I am a responsible and passionate professional, dedicated to coding, software development, and web development. My commitment to excellence drives me to constantly improve my skills and deliver high-quality results.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsharma1031&label=Profile%20views&color=0e75b6&style=flat" alt="harshsharma1031" /> </p>
