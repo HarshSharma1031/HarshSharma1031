@@ -1,12 +1,12 @@
 ![LOGO](https://github.com/HarshSharma1031/HarshSharma1031/blob/main/waves.jpg)
 <h1 align="center">Hey!,There I'm Harsh Sharma</h1>
-<h3 align="center">I am a responsible and passionate professional, dedicated to coding, software development, and web development. My commitment to excellence drives me to constantly improve my skills and deliver high-quality results.</h3>
+<h3 align="center">I am a responsible and passionate professional, dedicated to coding, software development, and web development. My commitment to excellence drives me for constantly improve my skills and deliver high-quality results.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsharma1031&label=Profile%20views&color=0e75b6&style=flat" alt="harshsharma1031" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/1nonlyharsh1031" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/1nonlyharsh1031?logo=twitter&style=for-the-badge" alt="https://x.com/1nonlyharsh1031" /></a> </p>
+<p align="left"> <a href="https://x.com/1nonlyharsh1031" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/1nonlyharsh1031?logo=twitter&style=for-the-badge" alt="https://x.com/1nonlyharsh1031" /></a> </p>
 
-- 🌱 I’m currently learning **WebDev along with DSA through C++**
+- 🌱 I’m currently learning **Python along with DSA through C++**
 
 - 💬 Ask me about **anything**
 
@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/1nonlyharsh1031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/1nonlyharsh1031" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/1nonlyharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/1nonlyharsh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/1nonlyharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/1nonlyharsh" height="30" width="40" /></a>
 <a href="https://instagram.com/." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="." height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harsh_1031" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harsh_1031" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/1nonlyharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="1nonlyharsh" height="30" width="40" /></a>
