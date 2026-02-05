@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/https://x.com/1nonlyharsh1031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/1nonlyharsh1031" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/1nonlyharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/1nonlyharsh" height="30" width="40" /></a>
-<a href="https://instagram.com/." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="." height="30" width="40" /></a>
+<a href="https://www.instagram.com/h_a_rshhhhhh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="." height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harsh_1031" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harsh_1031" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/1nonlyharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="1nonlyharsh" height="30" width="40" /></a>
 </p>
